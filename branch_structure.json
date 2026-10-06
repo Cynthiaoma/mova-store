@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/527-usd-to-raw-units-decimals",
+    "fix/issue-527-fix-stellar-pass-token-decimals-to-usdtorawunits",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/527-usd-to-raw-units-decimals": "main",
+    "fix/issue-527-fix-stellar-pass-token-decimals-to-usdtorawunits": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/527-usd-to-raw-units-decimals",
+    "fix/issue-527-fix-stellar-pass-token-decimals-to-usdtorawunits",
+    "origin"
+  ]
+}
